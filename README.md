@@ -7,14 +7,15 @@ https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodeg
 The Nanodgree consisted of three parts:
 <br>
 <br>
-__1. Supervised Learning:__
+__1. Supervised Learning__
 <br>
-__2. Deep Learning:__
+__2. Deep Learning__
 <br>
-__3. Unsupervised Learning:__
+__3. Unsupervised Learning__
 <br>
 <br>
 In this repository you find my code for the following three Projects:
+<br>
 <br>
 __1. Find Donors for CharityML:__
 <br>
