@@ -9,6 +9,10 @@ The Nanodgree consisted of three parts:
 <br>
 __1. Supervised Learning:__
 <br>
+__2. Deep Learning:__
+<br>
+__3. Unsupervised Learning:__
+<br>
 <br>
 In this repository you find my code for the following three Projects:
 <br>
@@ -18,5 +22,9 @@ In this project I used supervised machine learning models to identify residents 
 <br>
 __2. Build an Image Classifier__:
 <br>
+In this projct I implemented an image classification application using a deep neural network with with TensorFlow. This application will train a deep learning model on a dataset of images. It will then use the trained model to classify new images. First I will developped the code in a Jupyter notebook to ensure my implementation works well. Then I creatd a application which can easily be called from the command line. 
 __3.Create Customer Segments__:
+<br>
+In this project I applied unsupervised learning techniques to cluster costumer data to identify different customer segments. I cleaned the data and applied PCA transformtion to reduce the number of features. On the cleaned data I applied a clustering algorothm and evalauated the results.
+
 
