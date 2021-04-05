@@ -27,6 +27,6 @@ In this projct I implemented an image classification application using a deep ne
 <br>
 __3.Create Customer Segments__:
 <br>
-In this project I applied unsupervised learning techniques to cluster costumer data to identify different customer segments. I cleaned the data and applied PCA transformtion to reduce the number of features. On the cleaned data I applied a clustering algorothm and evalauated the results.
+In this project I applied unsupervised learning techniques to cluster costumer data to identify different customer segments. I cleaned the data and applied PCA transformtion to reduce the number of features. On the cleaned data I applied a clustering algorithm and evaluated the results.
 
 
