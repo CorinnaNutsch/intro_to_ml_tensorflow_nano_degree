@@ -23,7 +23,7 @@ In this project I used supervised machine learning models to identify residents 
 <br>
 __2. Build an Image Classifier__:
 <br>
-In this projct I implemented an image classification application using a deep neural network with with TensorFlow. This application will train a deep learning model on a dataset of images. It will then use the trained model to classify new images. First I will developped the code in a Jupyter notebook to ensure my implementation works well. Then I creatd a application which can easily be called from the command line. 
+In this projct I implemented an image classification application using a deep neural network with with TensorFlow. This application will train a deep learning model on a dataset of images. It will then use the trained model to classify new images. First I developped the code in a Jupyter notebook to ensure my implementation works well. Then I created a application which can easily be called from the command line. 
 <br>
 __3.Create Customer Segments__:
 <br>
